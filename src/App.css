@@ -1,0 +1,21 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}

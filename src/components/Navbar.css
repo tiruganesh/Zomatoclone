@@ -1,0 +1,25 @@
+.custom-navbar {
+    background: #ff4f5a;
+    padding: 15px;
+  }
+  
+  .logo-text {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff !important;
+    font-size: 1.2rem;
+    margin-right: 15px;
+  }
+  
+  .navbar-nav .btn {
+    border-radius: 25px;
+  }
+  
+  .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.7);
+  }
+  
